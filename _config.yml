@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: x1df
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://Ox1df/ox1df.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: ox1df # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: ox1df # change to your twitter username
 
 social:
   # Change to your full name.
