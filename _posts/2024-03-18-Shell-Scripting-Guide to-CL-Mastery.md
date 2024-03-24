@@ -6,7 +6,7 @@ categories: [Shell Scripting, Guide, Command-Line,Linux]
 tags: [Shell Scripting, Command Line, Mastery, Scripting Guide, Automation, Programming, Terminal, Bash, Linux, Unix]
 author: ox1df
 image:
-  path: 
+  path: assets/img/shell.png
   alt: A Comprehensive Shell Scripting Guide
 ---
 Hello Pentesters! Welcome, I'm 0x1df.

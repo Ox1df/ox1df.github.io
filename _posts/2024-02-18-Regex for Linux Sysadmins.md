@@ -6,7 +6,7 @@ categories: [Linux, Command Line, Regular Expressions]
 tags: [Regex, Bash, Text Processing]
 author: YourName
 image:
-  path: 
+  path: assets/img/linux-regex.png
   alt: Regular Expressions in Linux
 ---
 
