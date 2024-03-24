@@ -6,7 +6,7 @@ categories:  [PENTESTING]
 tags:  [Penetration Testing, Endpoint Security, Encryption, Cloud Security, Incident Response]
 author: Ox1df
 image:
- path: /assets/img/header1-1.png
+ path: assets/img/masteringhydra.png
  alt: Network pentesting
 ---
 ## Introuction
