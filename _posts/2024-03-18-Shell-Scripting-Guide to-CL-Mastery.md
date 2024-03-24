@@ -77,4 +77,12 @@ For example, imagine you have a folder named "Documents." Inside that folder, yo
 
 ```
 
+Paths refer to the locations of files and directories within a filesystem. For example, if you have a folder named "home" containing a subfolder named "x1df," and within that, another folder named "rabbit" the path would be: /home/x1df/rabbit.
+
+Just like navigating in real life, understanding your location in the filesystem is crucial. You can determine your current location using the "pwd" command, which stands for "print working directory." This command displays the directory you're currently in, starting from the root directory.
+
+you can use the `pwd` command in your terminal to find out your current directory. It stands for "print working directory." Simply type `pwd` and hit enter, and it will display the directory you're currently in. Give it a try in your terminal!
+
+
+
 
