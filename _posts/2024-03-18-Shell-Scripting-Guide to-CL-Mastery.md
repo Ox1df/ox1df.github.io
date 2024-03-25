@@ -83,6 +83,14 @@ Just like navigating in real life, understanding your location in the filesystem
 
 you can use the `pwd` command in your terminal to find out your current directory. It stands for "print working directory." Simply type `pwd` and hit enter, and it will display the directory you're currently in. Give it a try in your terminal!
 
+# cd (change Directory)
 
+Now that you've familiarized yourself with your current location, let's explore navigating through the filesystem. We primarily utilize two types of paths: absolute and relative.
+
+`Absolute path:` This originates from the root directory, denoted by a slash (/). It signifies the complete path starting from the root. For instance, /home/x1df/Desktop.
+
+`Relative path:` This stems from your current location in the filesystem. If, for example, you're at /home/x1df/Documents and wish to access a directory named taxes within Documents, you can simply specify taxes/ instead of the entire path like /home/x1df/Documents/taxes.
+
+Now, armed with an understanding of how paths operate, let's utilize the "change directory" command, or cd, to navigate to our desired locations.
 
 
